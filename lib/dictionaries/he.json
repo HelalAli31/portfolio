@@ -1,0 +1,166 @@
+{
+  "navbar": {
+    "home": "ראשי",
+    "about": "אודות",
+    "experience": "ניסיון",
+    "projects": "פרויקטים",
+    "skills": "כישורים",
+    "contact": "צור קשר"
+  },
+  "hero": {
+    "greeting": "שלום, אני",
+    "name": "הלאל עלי",
+    "title": "מהנדס תוכנה ומפתח Fullstack",
+    "location": "ישראל",
+    "cta": "צור קשר"
+  },
+  "about": {
+    "title": "אודותיי",
+    "summary": "סטודנט להנדסת תוכנה באורט בראודה (סיום לימודים ב-2027), עם ניסיון מעשי ב-Node.js, React, Angular, ומסדי נתונים. תשוקה לפיתוח יישומים אינטרנטיים ואפליקציות, פתרון בעיות, ועבודה עם טכנולוגיות מתקדמות. מחפש את התפקיד שלי כמהנדס תוכנה / מפתח תוכנה / בודק תוכנה כדי ליישם את הידע שלי בפרויקטים אמיתיים."
+  },
+  "experience": {
+    "title": "ניסיון תעסוקתי",
+    "jobs": [
+      {
+        "title": "מהנדס תמיכה טכנית",
+        "company": "הוט",
+        "period": "אפריל 2024 - הווה",
+        "responsibilities": [
+          "איתור ותיקון בעיות שרת (OLT, DHCP, DNS).",
+          "טיפול בתקלות אינטרנט, טלוויזיה וטלפוניה לשיפור השירות.",
+          "פיתוח יכולות פתרון בעיות וניסיון מעשי בתחום רשתות ותקשורת."
+        ]
+      },
+      {
+        "title": "מומחה תמיכה טכנית",
+        "company": "פרטנר",
+        "period": "אפריל 2021 - נובמבר 2023",
+        "responsibilities": [
+          "מתן תמיכה טכנית לרשתות אינטרנט וטלפוניה.",
+          "זיהוי ותיקון תקלות רשת ביעילות גבוהה.",
+          "שיפור שביעות רצון הלקוחות באמצעות פתרון בעיות והדרכה טכנית."
+        ]
+      }
+    ],
+    "education": {
+      "title": "השכלה",
+      "degree": "תואר ראשון בהנדסת תוכנה",
+      "institution": "אורט בראודה",
+      "period": "2022 - הווה (נותרו 3 סמסטרים)",
+      "graduation": "תאריך סיום משוער: אפריל 2027",
+      "courses": "קורסים רלוונטיים: מבני נתונים, אלגוריתמים, מערכות הפעלה, OOP, מסדי נתונים, רשתות, פיתון, C, ממשק משתמש, מבוא לבדיקות תוכנה, ארכיטקטורה"
+    },
+    "certifications": {
+      "title": "הכשרות ותעודות",
+      "name": "מפתח Full Stack",
+      "institution": "ג'ון ברייס",
+      "period": "2021-2022",
+      "description": [
+        "הכשרה בפיתוח React, Angular, Node.js, MongoDB, MySQL.",
+        "פיתוח מגוון יישומי אינטרנט במסגרת ההכשרה."
+      ]
+    }
+  },
+  "projects": {
+    "title": "פרויקטים",
+    "items": [
+      {
+        "title": "מערכת לתכנון חופשות",
+        "emoji": "🛫",
+        "tech": "React, Node.js, MySQL",
+        "description": [
+          "פיתוח מערכת מלאה לתכנון חופשות עם ממשק ידידותי למשתמש.",
+          "יישום ניהול מצבים מתקדם באמצעות React hooks & Redux.",
+          "עיצוב API מאובטח עם Node.js ו-MySQL."
+        ],
+        "github": "GitHub: קישור לפרויקט"
+      },
+      {
+        "title": "חנות סופרמרקט אונליין",
+        "emoji": "🛒",
+        "tech": "Angular, Node.js, MongoDB",
+        "description": [
+          "פיתוח אתר E-commerce עם מערכת קניות אינטראקטיבית.",
+          "אופטימיזציה של שאילתות מסד נתונים לשיפור הביצועים.",
+          "שילוב אימות משתמשים והרשאות עם JWT."
+        ],
+        "github": "GitHub: קישור לפרויקט"
+      },
+      {
+        "title": "חנות The Fog Bank",
+        "emoji": "🛒",
+        "tech": "Angular, Node.js, MongoDB",
+        "description": [
+          "פיתוח אתר E-commerce עם מערכת קניות אינטראקטיבית.",
+          "אופטימיזציה של שאילתות מסד נתונים לשיפור הביצועים.",
+          "שילוב אימות משתמשים והרשאות עם JWT."
+        ],
+        "github": "GitHub: קישור לפרויקט",
+        "website": "קישור לאתר"
+      }
+    ]
+  },
+  "skills": {
+    "title": "כישורים טכניים",
+    "categories": [
+      {
+        "name": "שפות תכנות",
+        "emoji": "💻",
+        "skills": "JavaScript (React, Angular, Node.js), Python, Java, C, PHP"
+      },
+      {
+        "name": "מסדי נתונים",
+        "emoji": "🗄️",
+        "skills": "MySQL, MongoDB, SQL Server"
+      },
+      {
+        "name": "פיתוח אתרים",
+        "emoji": "🖥️",
+        "skills": "HTML, CSS, Bootstrap, jQuery, WordPress"
+      },
+      {
+        "name": "כלים ומסגרות עבודה",
+        "emoji": "🛠️",
+        "skills": "Git, Visual Studio, VS Code, Spider"
+      },
+      {
+        "name": "מערכות הפעלה",
+        "emoji": "⚙️",
+        "skills": "Windows, Linux (Ubuntu)"
+      }
+    ],
+    "languages": {
+      "title": "שפות",
+      "items": [
+        {
+          "language": "ערבית",
+          "level": "שפת אם"
+        },
+        {
+          "language": "עברית",
+          "level": "שפת אם"
+        },
+        {
+          "language": "אנגלית",
+          "level": "שוטפת"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "צור קשר",
+    "email": "Helalali1@hotmail.com",
+    "phone": "054-3596761",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "formTitle": "שלח לי הודעה",
+    "nameLabel": "שם",
+    "emailLabel": "אימייל",
+    "messageLabel": "הודעה",
+    "submitButton": "שלח הודעה"
+  },
+  "footer": {
+    "copyright": "© 2025 הלאל עלי. כל הזכויות שמורות.",
+    "madeWith": "נבנה עם Next.js ו-Tailwind CSS"
+  }
+}

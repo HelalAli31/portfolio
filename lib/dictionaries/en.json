@@ -1,0 +1,166 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Helal Ali",
+    "title": "Software Engineer & Fullstack Developer",
+    "location": "Israel",
+    "cta": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "summary": "Software engineering student at Ort Braude (graduating in 2027), with hands-on experience in Node.js, React, Angular, and databases. Passionate about building scalable web applications, problem-solving, and working with modern web technologies. Looking for my first role as a Software Engineer or Fullstack Developer to apply my knowledge in real-world projects."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": [
+      {
+        "title": "Technical Support Engineer",
+        "company": "Hot",
+        "period": "April 2024 - Present",
+        "responsibilities": [
+          "Troubleshoot and resolve server-related issues (OLT, DHCP, DNS).",
+          "Handle internet, TV, and phone issues, ensuring optimal service.",
+          "Developed strong problem-solving skills and experience in networking."
+        ]
+      },
+      {
+        "title": "Technical Support Specialist",
+        "company": "Partner",
+        "period": "April 2021 - Nov 2023",
+        "responsibilities": [
+          "Provided technical support for phone & internet networks.",
+          "Diagnosed and resolved networking issues efficiently.",
+          "Improved customer satisfaction through clear communication & troubleshooting."
+        ]
+      }
+    ],
+    "education": {
+      "title": "Education",
+      "degree": "B.Sc. Software Engineering",
+      "institution": "Ort Braude College",
+      "period": "2022 - Present (3 semesters left)",
+      "graduation": "Expected Graduation: April 2027",
+      "courses": "Relevant Courses: Data Structures, Algorithms, Operating Systems, OOP, Databases, Networking, Python, C, Human Interface, Introduction to Software Testing, Architecture"
+    },
+    "certifications": {
+      "title": "Training & Certifications",
+      "name": "Full Stack Developer",
+      "institution": "John Bryce",
+      "period": "2021-2022",
+      "description": [
+        "Learned full-stack development with React, Angular, Node.js, MongoDB, MySQL.",
+        "Built various web applications as part of the training."
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Vacations Planner",
+        "emoji": "🛫",
+        "tech": "React, Node.js, MySQL",
+        "description": [
+          "Developed a full-stack vacation planning platform with an intuitive UI.",
+          "Implemented state management using React hooks & Redux.",
+          "Designed a secure REST API using Node.js and MySQL."
+        ],
+        "github": "GitHub: [Project Link]"
+      },
+      {
+        "title": "Supermarket Online Store",
+        "emoji": "🛒",
+        "tech": "Angular, Node.js, MongoDB",
+        "description": [
+          "Built a responsive e-commerce web app with shopping cart functionality.",
+          "Optimized database queries for faster load times.",
+          "Integrated authentication & authorization with JWT."
+        ],
+        "github": "GitHub: [Project Link]"
+      },
+      {
+        "title": "The Fog Bank Online Store",
+        "emoji": "🛒",
+        "tech": "Angular, Node.js, MongoDB",
+        "description": [
+          "Built a responsive e-commerce web app with shopping cart functionality.",
+          "Optimized database queries for faster load times.",
+          "Integrated authentication & authorization with JWT."
+        ],
+        "github": "GitHub: [Project Link]",
+        "website": "Website Link"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "categories": [
+      {
+        "name": "Programming",
+        "emoji": "💻",
+        "skills": "JavaScript (React, Angular, Node.js), Python, Java, C, PHP"
+      },
+      {
+        "name": "Databases",
+        "emoji": "🗄️",
+        "skills": "MySQL, MongoDB, SQL Server"
+      },
+      {
+        "name": "Web Development",
+        "emoji": "🖥️",
+        "skills": "HTML, CSS, Bootstrap, jQuery, WordPress"
+      },
+      {
+        "name": "Tools & Frameworks",
+        "emoji": "🛠️",
+        "skills": "Git, Visual Studio, VS Code, Spider"
+      },
+      {
+        "name": "Operating Systems",
+        "emoji": "⚙️",
+        "skills": "Windows, Linux (Ubuntu)"
+      }
+    ],
+    "languages": {
+      "title": "Languages",
+      "items": [
+        {
+          "language": "Arabic",
+          "level": "Native"
+        },
+        {
+          "language": "Hebrew",
+          "level": "Native"
+        },
+        {
+          "language": "English",
+          "level": "Fluent"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "email": "Helalali1@hotmail.com",
+    "phone": "054-3596761",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "formTitle": "Send me a message",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "submitButton": "Send Message"
+  },
+  "footer": {
+    "copyright": "© 2025 Helal Ali. All rights reserved.",
+    "madeWith": "Made with Next.js and Tailwind CSS"
+  }
+}
